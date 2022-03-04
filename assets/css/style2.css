@@ -1,0 +1,46 @@
+ul, li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+ul {
+    padding-left: 1000px;
+}
+
+img {
+    width: 150px;
+}
+
+.navbar {
+    color: blue;
+}
+
+.content h1 {
+    text-align: center ;
+}
+
+.content {
+    padding: 3px;
+    background-image: url("../images/sample-pattern.png");
+    background-repeat: repeat-y;
+    background-size: 1500px 500px;
+}
+
+.box {
+    background-color: white;
+    margin: 30px 200px;
+    padding: 30px;
+}
+
+.box h3 {
+    color: blue;
+}
+
+.footer {
+    color : white;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    
+}
+
