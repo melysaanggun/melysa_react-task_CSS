@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
 
 div,.box_1, .box_2{
-    background-color: lightgrey;
     width: 100px;
     height: 100px;
     padding: 30px;
@@ -22,12 +21,11 @@ div,.box_1, .box_2{
   }
 
   .box_3{
-    background-color: lightgrey;
     width: 350px;
     height: 350px;
     padding: 0px;
     margin: 30px;
-    text-align: ;
+    text-align: center ;
     color: white;
     font-family: 'Slabo 27px';
     display: block;
